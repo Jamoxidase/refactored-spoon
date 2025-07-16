@@ -1,0 +1,33 @@
+# PDF files - never commit copyrighted content
+*.pdf
+pdfs_*/
+**/pdfs/
+**/pdfs_*/
+
+# Download artifacts
+*.crdownload
+failure_*.html
+failure_*.png
+
+# Test files
+test_*.csv
+test_*/
+*_test.csv
+results_*.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment
+.env
+.venv
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
