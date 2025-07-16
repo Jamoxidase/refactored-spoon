@@ -1,6 +1,6 @@
 # Unpaywall PDF Downloader
 
-Downloads academic papers from Unpaywall API (key word search) with Selenium. Claude helped me combine a couple of scripts, seems to work as intended.
+Downloads academic papers from Unpaywall API (key word search) with Selenium. Claude helped to combine a couple of scripts, seems to work as intended.
 
 ## Quick Start
 
